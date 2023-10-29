@@ -30,3 +30,5 @@ O conjunto de dados utilizado para este projeto é "Stroke Prediction Dataset" (
 **Professor**<br>
 
 - Igor Garcia - [LinkedIn](https://www.linkedin.com/in/igorgbs/)
+  
+<br>**ATENÇÃO: Por favor, lembre-se de que os resultados desta trabalho são para fins acadêmicos, e não representa verdade absoluta. Use essas informações com discernimento e considere outras fontes e contexto antes de tirar conclusões definitivas.**
