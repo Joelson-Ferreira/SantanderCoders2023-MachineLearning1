@@ -1,5 +1,5 @@
 # SantanderCoders2023-MachineLearning1
-Projeto final referente ao módulo Machine Learning I" do programa Santander Coders 2023.
+Projeto final referente ao módulo "Machine Learning I" do programa Santander Coders 2023.
 
 **Acidente Vascular Cerebral (AVC), predição via técnicas de Machine Learning**<br>
 
